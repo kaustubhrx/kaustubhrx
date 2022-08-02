@@ -2,9 +2,9 @@
 <h3 align="center">Currently a student majoring in Computer Science</h3>
 
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=kaustubhkx&theme=dark&show_icons=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaustubhkx&theme=dark&show_icons=true" />
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
+<!-- <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats" /> --!>
 
 <!-- <img align="left" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
 
